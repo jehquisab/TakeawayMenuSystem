@@ -10,4 +10,6 @@ Steps to run the program and test cases.
 3. Import the folder, using the Eclipse Import option. (File > Import) then select (General > File System) and then browse to the project folder.
 4. In order to run from the beginning, run the Login class inside the takeawaySystem package. From there every class should be accessed as per instrunction in the terminal.
 5. In order to test, each class will need to be tested separately from the test.blackbox and test.whitebox packages. Some textfiles have been provided for Category Partition Specification proof as per lab examples.
-   
+
+Comment from @jehquisab
+Done in collaboration as a requirement of our MSc. Team: @dgbeats, @vaishl, @bosskelv, @gegeokokea
