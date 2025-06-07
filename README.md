@@ -12,4 +12,4 @@ Steps to run the program and test cases.
 5. In order to test, each class will need to be tested separately from the test.blackbox and test.whitebox packages. Some textfiles have been provided for Category Partition Specification proof as per lab examples.
 
 ## Comment from @jehquisab
-# Done in collaboration as a requirement of our MSc. Team: @dgbeats, @vaishl, @bosskelv, @gegeokokea
+### Done in collaboration as a requirement of our MSc. Team: @dgbeats, @vaishl, @bosskelv, @gegeokokea
