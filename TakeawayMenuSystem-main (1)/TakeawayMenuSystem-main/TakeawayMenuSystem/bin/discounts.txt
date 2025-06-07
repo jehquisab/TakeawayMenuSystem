@@ -1,2 +1,0 @@
-testCode2, 5
-testCode3, 10
